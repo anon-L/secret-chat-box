@@ -1,4 +1,5 @@
 # Deployed website: https://secret-chat-box.web.app/
+base mostly on this tutorial https://alterclass.io/blog/build-a-realtime-chat-app-in-5-min-with-react-and-firebase
 
 # Getting Started with Create React App
 
